@@ -1,2 +1,2 @@
-# pratice-git
+# CEA
 test
